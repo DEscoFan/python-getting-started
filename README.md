@@ -43,3 +43,5 @@ or
 For more information about using Python on Heroku, see these Dev Center articles:
 
 - [Python on Heroku](https://devcenter.heroku.com/categories/python)
+
+[![Run on Repl.it](https://repl.it/badge/github/heroku/python-getting-started)](https://repl.it/github/heroku/python-getting-started)
